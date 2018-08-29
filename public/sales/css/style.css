@@ -1,0 +1,201 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+		font-family: 'latoregular';
+	}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+		display: block;
+	}
+
+body {
+	line-height: 1;
+	background-color: #999 !important;
+    overflow-x: hidden;
+    padding-right: 0 !important;
+    font-size: 16px;
+
+	}
+
+ol,ul, li{
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+@font-face {
+    font-family: 'bignoodletitlingregular';
+    src: url('fonts/big_noodle_titling-webfont.woff2') format('woff2'),
+         url('fonts/big_noodle_titling-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('fonts/lato-regular-webfont.woff2') format('woff2'),
+         url('fonts/lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+a:focus, a:active{
+   outline: 0;
+   border: none;
+}
+
+.btn:focus, .btn-default:focus{
+   outline: 0;
+   border: none;
+}
+
+.btn:active, .btn-default:active{
+   outline: 0;
+   border: none;
+
+}
+
+.wrapper{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fff;
+}
+
+.header{
+    padding: 20px 40px;
+}
+
+.header h2{
+    font-size: 32px;
+    font-family: 'latoregular';
+}
+
+.rightalign{
+    text-align: right;
+}
+
+.centeralign{
+    text-align: center;
+}
+
+.action-block{
+    background-color: #000;
+    padding: 20px;
+}
+
+.quote h2{
+    text-align: center;
+    font-family: 'bignoodletitlingregular';
+    font-size: 3.3em;
+      
+}
+
+.quote h2 span{
+    color: #3588D5;
+    font-family: 'bignoodletitlingregular';
+}
+
+.quote{
+    background-color: #fff;
+    padding: 5px 20px;
+}
+
+.specialized{
+    background-color: #EEEEEE;
+}
+
+.specialized h2{
+    color: #F68008;
+    text-transform: uppercase;
+    font-family: 'latoregular';
+}
+
+.specialized h4{
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 0;    
+    font-family: 'latoregular';
+}
+
+.specialized p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.padding-25{
+    padding: 30px !important;
+}
+
+.padding-20{
+    padding: 20px ;
+    text-align: left;
+}
+
+.padding-0{
+   padding:0 !important;
+}
+
+
+
+.specialized img{
+    width: 100%;
+    text-align: right;
+}
+
+.footer{
+    background-color: #3588D5;
+}
+
+.footer p{
+    color: #fff;
+    font-size: 15px;
+}
+
+.footer .website{
+    background-color: #3B3B3B;
+    text-align: center;
+}
+
+.website h2{
+    color: #fff;
+    font-family: 'latoregular';
+    font-size: 2.8em;
+    line-height: 60px;
+      margin-bottom: 0;
+    
+}
+
+.clear{
+    clear: both;
+}
+
+.website h2 span{
+    color: #F68008;
+    font-family: 'latoregular';
+}
+
+.footer-content{
+    padding-bottom: 20px;
+}
+
+.email{
+    padding: 20px 0 10px 0;
+}
+
+.footer .copyright{
+    background-color: #3B3B3B;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    line-height: 40px;
+}
+
+

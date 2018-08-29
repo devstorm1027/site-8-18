@@ -1,0 +1,22 @@
+[21-Jul-2017 18:36:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:36:31 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallbackPrediction.php on line 26
+[21-Jul-2017 18:36:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 01:37:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 01:37:42 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallPrediction.php on line 28
+[22-Jul-2017 07:35:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 07:35:21 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallTimesPrediction.php on line 29
+[22-Jul-2017 10:10:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 10:10:21 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallTimesPrediction.php on line 29
+[22-Jul-2017 11:32:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 11:32:00 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallPrediction.php on line 28
+[22-Jul-2017 14:20:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 15:58:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 15:58:51 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/NoCallsPrediction.php on line 26
+[22-Jul-2017 16:55:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 16:55:10 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/NoCallsPrediction.php on line 26
+[22-Jul-2017 22:47:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 22:47:28 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/NoCallsPrediction.php on line 26
+[23-Jul-2017 01:14:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 01:14:41 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallbackPrediction.php on line 26
+[23-Jul-2017 14:21:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 14:21:32 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Prediction\PredictionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallPrediction.php on line 28

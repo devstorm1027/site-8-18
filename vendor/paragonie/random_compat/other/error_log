@@ -1,0 +1,18 @@
+[15-Jul-2017 16:10:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 16:10:02 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/skusuites...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[17-Jul-2017 04:59:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 04:59:00 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/skusuites...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[19-Jul-2017 18:55:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 18:55:11 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/skusuites...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/skusuitesite/public_html/web.skusuite.com/vendor/paragonie/random_compat/other/build_phar.php on line 13

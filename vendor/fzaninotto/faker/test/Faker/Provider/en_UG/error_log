@@ -1,0 +1,6 @@
+[19-Jul-2017 17:38:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 17:38:53 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Provider/en_UG/AddressTest.php on line 9
+[22-Jul-2017 21:36:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 21:36:52 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Provider/en_UG/AddressTest.php on line 9
+[26-Jul-2017 15:12:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 15:12:32 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Provider/en_UG/AddressTest.php on line 9

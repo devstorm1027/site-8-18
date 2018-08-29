@@ -1,0 +1,31 @@
+[17-Jul-2017 18:18:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:22 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\GlobalState\TestFixture\BlacklistedClass' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/global-state/tests/_fixture/BlacklistedChildClass.php on line 16
+[17-Jul-2017 19:38:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:25 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\TestFixture\BlacklistedInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/global-state/tests/_fixture/BlacklistedImplementor.php on line 16
+[17-Jul-2017 19:38:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:38:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 22:05:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 00:10:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 13:32:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 22:15:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 00:04:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 00:04:15 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\TestFixture\BlacklistedInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/global-state/tests/_fixture/BlacklistedImplementor.php on line 16
+[20-Jul-2017 06:27:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 13:54:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 13:54:17 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\GlobalState\TestFixture\BlacklistedClass' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/global-state/tests/_fixture/BlacklistedChildClass.php on line 16
+[21-Jul-2017 19:17:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:54:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:53:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:53:27 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\GlobalState\TestFixture\BlacklistedClass' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/global-state/tests/_fixture/BlacklistedChildClass.php on line 16
+[21-Jul-2017 21:53:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:53:31 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\TestFixture\BlacklistedInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/global-state/tests/_fixture/BlacklistedImplementor.php on line 16
+[22-Jul-2017 00:09:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 04:06:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 18:05:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 11:46:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 21:36:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0

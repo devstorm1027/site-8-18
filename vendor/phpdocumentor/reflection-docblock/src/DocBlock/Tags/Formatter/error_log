@@ -1,0 +1,4 @@
+[19-Jul-2017 01:07:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 01:07:01 America/Chicago] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlock\Tags\Formatter' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Formatter/PassthroughFormatter.php on line 19
+[24-Jul-2017 21:40:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 21:40:58 America/Chicago] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlock\Tags\Formatter' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Formatter/PassthroughFormatter.php on line 19

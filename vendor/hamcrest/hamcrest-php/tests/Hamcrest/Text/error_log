@@ -1,0 +1,38 @@
+[21-Jul-2017 01:26:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 01:26:43 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringStartsWithTest.php on line 5
+[21-Jul-2017 14:37:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 14:37:27 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringEndsWithTest.php on line 5
+[22-Jul-2017 20:37:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 20:37:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsInOrderTest.php on line 5
+[22-Jul-2017 20:39:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 20:39:10 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsIgnoringCaseTest.php on line 5
+[22-Jul-2017 22:44:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 22:44:41 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEqualIgnoringWhiteSpaceTest.php on line 5
+[22-Jul-2017 23:30:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 23:30:11 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEmptyStringTest.php on line 5
+[23-Jul-2017 00:26:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 00:26:22 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEqualIgnoringCaseTest.php on line 5
+[23-Jul-2017 07:22:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 07:22:59 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringStartsWithTest.php on line 5
+[23-Jul-2017 09:22:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 09:22:39 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsIgnoringCaseTest.php on line 5
+[23-Jul-2017 09:24:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 09:24:08 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsTest.php on line 5
+[23-Jul-2017 13:02:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 13:02:05 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEqualIgnoringWhiteSpaceTest.php on line 5
+[23-Jul-2017 13:08:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 13:08:37 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/MatchesPatternTest.php on line 5
+[24-Jul-2017 02:35:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 02:35:30 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEqualIgnoringCaseTest.php on line 5
+[24-Jul-2017 05:12:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 05:12:13 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/MatchesPatternTest.php on line 5
+[24-Jul-2017 08:22:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 08:22:02 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringEndsWithTest.php on line 5
+[24-Jul-2017 08:50:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 08:50:06 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsInOrderTest.php on line 5
+[24-Jul-2017 12:37:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 12:37:08 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEmptyStringTest.php on line 5
+[24-Jul-2017 23:20:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 23:20:22 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/MatchesPatternTest.php on line 5
+[25-Jul-2017 04:04:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 04:04:09 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsTest.php on line 5

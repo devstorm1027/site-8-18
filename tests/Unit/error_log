@@ -1,0 +1,6 @@
+[13-Jul-2017 13:48:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:48:35 America/Chicago] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/tests/Unit/ExampleTest.php on line 10
+[14-Jul-2017 22:09:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 22:09:25 America/Chicago] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/tests/Unit/ExampleTest.php on line 10
+[14-Jul-2017 22:10:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 22:10:33 America/Chicago] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/tests/Unit/ExampleTest.php on line 10

@@ -1,0 +1,473 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+
+// .checkbox label .toggle,.checkbox-inline .toggle{
+// 	margin-left:-20px;
+// 	margin-right:5px;
+// }
+// .toggle{
+// 	position:relative;
+// 	overflow:hidden;
+// }
+// .toggle input[type=checkbox]{
+// 	display:none;
+// }
+// .toggle-group{
+// 	position:absolute;
+// 	width:200%;
+// 	top:0;
+// 	bottom:0;
+// 	left:0;
+// 	transition:left .35s;
+// 	-webkit-transition:left .35s;
+// 	-moz-user-select:none;
+// 	-webkit-user-select:none;
+// }
+// .toggle.off .toggle-group{
+// 	left:-100%;
+// }
+// .toggle-on{
+// 	position:absolute;
+// 	top:0;
+// 	bottom:0;
+// 	left:0;
+// 	right:50%;
+// 	margin:0;
+// 	border:0;
+// 	border-radius:0;
+// }
+// .toggle-off{
+// 	position:absolute;
+// 	top:0;
+// 	bottom:0;
+// 	left:50%;
+// 	right:0;
+// 	margin:0;
+// 	border:0;
+// 	border-radius:0;
+// }
+// .toggle-handle{
+// 	position:relative;
+// 	margin:0 auto;
+// 	padding-top:0;
+// 	padding-bottom:0;
+// 	height:100%;
+// 	width:0;
+// 	border-width:0 1px;
+// }
+// .toggle.btn{
+// 	min-width:59px;
+// 	min-height:34px;
+// }
+// .toggle-on.btn{
+// 	padding-right:24px;
+// }
+// .toggle-off.btn{
+// 	padding-left:24px;
+// }
+// .toggle.btn-lg{
+// 	min-width:79px;
+// 	min-height:45px;
+// }
+// .toggle-on.btn-lg{
+// 	padding-right:31px;
+// }
+// .toggle-off.btn-lg{
+// 	padding-left:31px;
+// }
+// .toggle-handle.btn-lg{
+// 	width:40px;
+// }
+// .toggle.btn-sm{
+// 	min-width:50px;
+// 	min-height:30px;
+// }
+// .toggle-on.btn-sm{
+// 	padding-right:20px;
+// }
+// .toggle-off.btn-sm{
+// 	padding-left:20px;
+// }
+// .toggle.btn-xs{
+// 	min-width:35px;
+// 	min-height:22px;
+// }
+// .toggle-on.btn-xs{
+// 	padding-right:12px;
+// }
+// .toggle-off.btn-xs{
+// 	padding-left:12px;
+// }
+
+
+
+/*! ========================================================================
+ * Bootstrap Toggle: bootstrap-toggle.css v2.2.0
+ * http://www.bootstraptoggle.com
+ * ========================================================================
+ * Copyright 2014 Min Hur, The New York Times Company
+ * Licensed under MIT
+ * ======================================================================== */
+
+
+/*
+ * Typography
+ */
+
+h1 {
+  margin-bottom: 20px;
+  padding-bottom: 9px;
+}
+
+.pagePrincing{
+    background:url('../img/gray.png') repeat center;
+    background: #ECF0F5;  
+}
+
+/*
+ * Sidebar
+ */
+
+.sidebar {
+  position: fixed;
+  top: 51px;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  padding: 20px;
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+  border-right: 1px solid #eee;
+}
+
+/* Sidebar navigation */
+.sidebar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.sidebar .nav {
+  margin-bottom: 20px;
+}
+
+.sidebar .nav-item {
+  width: 100%;
+}
+
+.sidebar .nav-item + .nav-item {
+  margin-left: 0;
+}
+
+.sidebar .nav-link {
+  border-radius: 0;
+}
+
+/*
+ * Dashboard
+ */
+
+ /* Placeholders */
+.placeholders {
+  padding-bottom: 3rem;
+}
+
+.placeholder img {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.pricing{
+  margin-top: 0px;
+  padding-top: 60px;
+}
+
+.pricing .panel-body .list-group-item{
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.pricing .panel-body{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.pricing .eachbody{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+span.checkmark {
+    background:url('../svg/icon.svg');
+    background-position: -185px -383px;
+    height: 19px !important;
+    width: 20px !important;
+    
+    /* margin-right: 0px !important; */
+}
+
+.pricing .secondnav{
+  top:60px;
+}
+
+.pricing .text-title{
+    color: #171717;
+}
+
+.pricing .text-doller{
+    color:#f68816;
+}
+
+.pricing .headerfield, .pricing .secondnav .headerfield{
+    height: 110px;
+}
+
+.pricing .faq .collapsed{
+    padding:3px;
+}
+
+.pricing .faq .collapsed a {
+    font-size: 15px;
+    color: #171717;
+    width:100%;
+    background-color: rgba(70,184,218,0.2);
+}
+
+.pricing .faq p {
+    padding-left:20px;
+    padding-right:20px;
+}
+
+@media(max-width:800px){
+  .mpricing {
+    display: block !important;
+  }
+
+  .pricing {
+    display: none;
+  }
+
+  .secondnav{
+      display: none !important;
+  }
+}
+
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {display:none;}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.pricing ul li a {
+ display:block;
+ color:#000000;
+}
+
+.pricing ul li a:hover, .pricing ul li a:focus {
+ color:#000;
+ text-decoration: underline
+//  border-bottom: 1px solid #000;
+}
+
+.mpricing .panel-info .panel-heading, .pricing .panel-info .panel-heading {
+     background-color: #2da01c !important;
+}
+
+.pricing .eachbody_2 .panel-info .panel-heading, .mpricing .eachbody_2 .panel-info .panel-heading{
+    background-color: #de1f26 !important;
+}
+
+.pricing .eachbody_3 .panel-info .panel-heading, .mpricing .eachbody_3 .panel-info .panel-heading{
+    background-color: #179bd7 !important;
+}
+  
+
+.pricing .eachbody_4 .panel-info .panel-heading, .mpricing .eachbody_4 .panel-info .panel-heading{
+    background-color: #ffcd00 !important;
+}
+
+
+.pricing .eachbody_5 .panel-info .panel-heading, .mpricing .eachbody_5 .panel-info .panel-heading{
+    background-color: #4d44f1 !important;
+}
+
+/* Outer */
+.popup {
+    width:100%;
+    height:100%;
+    display:none;
+    position:fixed;
+    top:0px;
+    left:0px;
+    background:rgba(0,0,0,0.75);
+}
+ 
+/* Inner */
+.popup-inner {
+    max-width:700px;
+    width:90%;
+    padding:40px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform:translate(-50%, -50%);
+    transform:translate(-50%, -50%);
+    box-shadow:0px 2px 6px rgba(0,0,0,1);
+    border-radius:3px;
+    background:#fff;
+}
+ 
+/* Close Button */
+.popup-close {
+    width:30px;
+    height:30px;
+    padding-top:4px;
+    display:inline-block;
+    position:absolute;
+    top:0px;
+    right:0px;
+    transition:ease 0.25s all;
+    -webkit-transform:translate(50%, -50%);
+    transform:translate(50%, -50%);
+    border-radius:1000px;
+    background:rgba(0,0,0,0.8);
+    font-family:Arial, Sans-Serif;
+    font-size:20px;
+    text-align:center;
+    line-height:100%;
+    color:#fff;
+}
+ 
+.popup-close:hover {
+    -webkit-transform:translate(50%, -50%) rotate(180deg);
+    transform:translate(50%, -50%) rotate(180deg);
+    background:rgba(0,0,0,1);
+    text-decoration:none;
+}
+
+
+.mpricing {
+
+        .panel-body ul li {
+            padding-left:80px;
+            padding-right:80px;
+        }
+
+        #custom_carousel .item {
+            color:#000;
+            background-color:#eee;
+            padding:20px 0;
+        }
+        #custom_carousel .controls{
+            overflow-x: auto;
+            overflow-y: hidden;
+            padding:0;
+            margin:0;
+            white-space: nowrap;
+            text-align: center;
+            position: inherit;
+            background:#fff
+        }
+        #custom_carousel .controls li {
+            display: table-cell;
+            width: 1%;
+            max-width:90px;
+            color: #000;
+        }
+
+        #custom_carousel li a{
+            color: #000;
+        }
+
+        .blocktext a{
+            color: #babec5 !important;
+        }
+
+        #custom_carousel .controls li.active {
+            background-color:#fff;
+        }
+
+        #custom_carousel .controls li.active a {
+            border-bottom:3px solid orange;
+        }
+
+        #custom_carousel .nav li a:hover {
+            background-color:#fff;
+        }
+
+        // #custom_carousel .controls a small {
+        //     overflow:hidden;
+        //     display:block;
+        //     font-size:10px;
+        //     font-weight:bold
+        // }
+
+        #custom_carousel .controls .nav > li > a {
+            padding:5px;
+        }
+
+}
+
+
+
+.mpricing .text-title{
+  color: #000;
+}
+
+.mpricing .text-doller{
+  color: #C9007A;
+}

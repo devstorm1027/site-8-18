@@ -1,0 +1,36 @@
+[17-Jul-2017 18:08:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:08:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php on line 8
+[17-Jul-2017 18:08:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:08:57 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php on line 6
+[17-Jul-2017 18:08:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:08:59 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php on line 19
+[17-Jul-2017 18:09:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:09:00 America/Chicago] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 5
+[17-Jul-2017 18:09:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:09:02 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 5
+[17-Jul-2017 18:09:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:09:03 America/Chicago] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php on line 5
+[17-Jul-2017 21:57:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 21:57:51 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php on line 6
+[18-Jul-2017 01:41:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 01:41:04 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php on line 19
+[18-Jul-2017 16:18:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 16:18:53 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 5
+[18-Jul-2017 21:44:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 21:44:15 America/Chicago] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 5
+[19-Jul-2017 18:13:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 18:13:52 America/Chicago] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php on line 5
+[20-Jul-2017 12:27:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 12:27:16 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php on line 8
+[21-Jul-2017 18:13:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:13:20 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php on line 6
+[21-Jul-2017 21:00:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:00:57 America/Chicago] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 5
+[22-Jul-2017 05:58:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:58:34 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 5
+[22-Jul-2017 12:25:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 12:25:29 America/Chicago] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php on line 5
+[22-Jul-2017 14:03:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 14:03:34 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php on line 8
+[23-Jul-2017 18:08:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 18:08:25 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php on line 19

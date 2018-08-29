@@ -1,0 +1,106 @@
+[19-Jul-2017 03:14:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:28 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\ShortcutCombination' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php on line 16
+[19-Jul-2017 03:14:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:30 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php on line 13
+[19-Jul-2017 03:14:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:32 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php on line 15
+[19-Jul-2017 03:14:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:35 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php on line 13
+[19-Jul-2017 03:14:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:39 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php on line 20
+[19-Jul-2017 03:14:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:42 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 14
+[19-Jul-2017 03:14:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:44 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php on line 16
+[19-Jul-2017 03:14:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php on line 15
+[19-Jul-2017 03:14:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:52 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[19-Jul-2017 03:14:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:54 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php on line 16
+[19-Jul-2017 03:14:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:56 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php on line 14
+[19-Jul-2017 03:15:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:15:00 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php on line 15
+[19-Jul-2017 03:15:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:15:06 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php on line 23
+[19-Jul-2017 03:15:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:15:11 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php on line 13
+[21-Jul-2017 07:11:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 07:11:01 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsSame' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 14
+[21-Jul-2017 07:22:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 07:22:22 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\ShortcutCombination' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php on line 16
+[21-Jul-2017 10:27:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:27:45 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php on line 13
+[21-Jul-2017 18:02:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:02:06 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php on line 16
+[21-Jul-2017 18:34:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:34:42 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsSame' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 14
+[21-Jul-2017 20:54:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 20:54:18 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php on line 14
+[21-Jul-2017 21:01:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:01:39 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php on line 13
+[21-Jul-2017 23:29:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:29:16 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php on line 23
+[21-Jul-2017 23:33:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:33:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php on line 13
+[22-Jul-2017 00:03:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 00:03:56 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[22-Jul-2017 00:06:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 00:06:18 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php on line 20
+[22-Jul-2017 00:32:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 00:32:49 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\ShortcutCombination' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php on line 16
+[22-Jul-2017 03:25:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 03:25:26 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php on line 15
+[22-Jul-2017 04:31:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 04:31:22 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php on line 15
+[22-Jul-2017 05:26:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:26:19 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php on line 13
+[22-Jul-2017 05:59:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:59:01 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php on line 16
+[22-Jul-2017 07:23:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 07:23:52 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php on line 20
+[22-Jul-2017 08:55:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 08:55:27 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php on line 15
+[22-Jul-2017 10:13:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 10:13:32 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php on line 16
+[22-Jul-2017 10:49:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 10:49:03 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 14
+[22-Jul-2017 17:57:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 17:57:32 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php on line 15
+[22-Jul-2017 19:26:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 19:26:32 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AllOf.php on line 17
+[22-Jul-2017 20:30:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 20:30:25 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsTypeOf.php on line 14
+[22-Jul-2017 22:16:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 22:16:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php on line 16
+[23-Jul-2017 02:45:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 02:45:23 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsTypeOf.php on line 14
+[23-Jul-2017 03:15:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 03:15:39 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php on line 23
+[23-Jul-2017 03:45:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 03:45:55 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php on line 16
+[23-Jul-2017 13:55:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 13:55:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[23-Jul-2017 19:31:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 19:31:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php on line 16
+[23-Jul-2017 21:55:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 21:55:32 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php on line 13
+[23-Jul-2017 23:56:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 23:56:36 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php on line 15
+[24-Jul-2017 02:46:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 02:46:51 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php on line 14
+[24-Jul-2017 03:47:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 03:47:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php on line 15
+[24-Jul-2017 04:53:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 04:53:25 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[24-Jul-2017 06:52:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 06:52:48 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php on line 13
+[24-Jul-2017 10:28:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 10:28:29 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 14
+[24-Jul-2017 14:42:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 14:42:00 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AllOf.php on line 17
+[24-Jul-2017 19:03:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 19:03:04 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 14
+[24-Jul-2017 21:30:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 21:30:40 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php on line 15

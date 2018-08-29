@@ -1,0 +1,14 @@
+[19-Jul-2017 17:05:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 17:05:46 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Driver\Driver' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Driver/Xdebug.php on line 21
+[19-Jul-2017 17:47:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 17:47:24 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\Driver\Xdebug' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Driver/HHVM.php on line 19
+[20-Jul-2017 01:02:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 06:42:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 06:42:58 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Driver\Driver' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Driver/PHPDBG.php on line 21
+[20-Jul-2017 21:45:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:45:33 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Driver\Driver' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Driver/PHPDBG.php on line 21
+[21-Jul-2017 02:30:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:30:22 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Driver\Driver' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Driver/Xdebug.php on line 21
+[21-Jul-2017 19:09:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 11:44:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 11:44:07 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\Driver\Xdebug' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Driver/HHVM.php on line 19

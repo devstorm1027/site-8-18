@@ -1,0 +1,6 @@
+[13-Jul-2017 13:48:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:48:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Console/Kernel.php on line 9
+[16-Jul-2017 02:07:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 02:07:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Console/Kernel.php on line 9
+[16-Jul-2017 03:17:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 03:17:01 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Console/Kernel.php on line 9

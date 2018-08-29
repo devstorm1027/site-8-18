@@ -1,0 +1,68 @@
+.pageDemo{
+
+	.page-container{
+		min-height:800px;
+		background:url('../img/banner/login-background-des.jpg');
+		background-position:center;
+		background-size:cover;
+
+		&.wrapper{
+			padding: 100px 0;
+		}
+
+		.parrafo{
+			color: #fff;
+			font-size: 17px;
+			margin-bottom: 45px;
+		}
+
+		&:before{
+			content:"";
+			position: absolute;
+		    left: 0;
+		    top: 0;
+		    width: 100%;
+		    height: 100%;
+		    background: rgba(1,1,1,.85);
+		    z-index: 0;
+		}
+
+		.container-form{
+			background:#fff;
+			min-height: 500px;
+			border-radius:5px;
+			padding:30px;	
+
+			header{
+				font-size: 30px;
+			    padding: 0 0 15px;
+			    margin-bottom: 30px;
+			    border-bottom: 1px dashed $color-border-form;
+			    font-weight: 900;
+			}		
+		}
+
+		
+	}
+	
+}
+
+.container-checkbox-list{
+	display:block;
+	width:100%;
+	height:200px;
+	overflow-y:scroll;
+	border:1px solid $color-border-form;
+	border-radius:7px;
+	padding: 5px 0;
+    background: $color-light-second;
+
+	.checkbox-list{
+		margin:0;
+		padding: 7px 10px;
+		li{
+			.check{margin: 6px 0 0;}
+			span{font-size:15px;}
+		}
+	}
+}

@@ -1,0 +1,76 @@
+@import "border";
+
+/**
+ * [prefixer description]
+ * @param  {[type]} $property             [description]
+ * @param  {[type]} $value                [description]
+ * @param  {[type]} $propertyWithPrefixed :             false [description]
+ * @param  {[type]} $prefixes:            webkit        moz   ms            o [description]
+ * @return {[type]}                       [description]
+ */
+@mixin prefixer($property, $value,$propertyWithPrefixed : false,$prefixes: webkit moz ms o) {
+	#{$property}: #{$value};
+
+	@each $prefix in $prefixes {
+		@if $propertyWithPrefixed {
+	   		#{'-' + $prefix + '-' + $property}: #{'-' + $prefix + '-' +$value};
+		
+		}@else{
+			#{'-' + $prefix + '-' + $property}: #{$value};	
+		}
+    }
+}
+
+/**
+ * [transform description]
+ * @param  {[type]} $value  [description]
+ * @param  {[type]} $bolean :             false [description]
+ * @return {[type]}         [description]
+ */
+@mixin transform($value,$bolean : false){
+	@include prefixer(transform,$value,$bolean);
+}
+
+/**
+ * [transition description]
+ * @param  {[type]} $value  [description]
+ * @param  {[type]} $bolean :             false [description]
+ * @return {[type]}         [description]
+ */
+@mixin transition($value,$bolean : false){
+	@include prefixer(transition,$value,$bolean);
+}
+
+/**
+ * [create_by_medidas description]
+ * @param  {[type]} $tag      [description]
+ * @param  {[type]} $property [description]
+ * @param  {[type]} $space    [description]
+ * @return {[type]}           [description]
+ */
+@mixin spacing($tag,$property,$space){	
+	$count : 1;
+
+	@each $unidad in $unidades{ 
+
+		.#{$tag+'-'+$unidad}{
+			#{$property}: $space * $count; 
+		}
+	
+		$count : $count+1;
+	}	
+}
+
+
+$min_space : 10px;
+@include spacing('m-r','margin-right',$min_space);
+@include spacing('m-l','margin-left',$min_space);
+@include spacing('m-t','margin-top',$min_space);
+@include spacing('m-b','margin-bottom',$min_space);
+
+
+@include spacing('pd-r','padding-right',$min_space);
+@include spacing('pd-l','padding-left',$min_space);
+@include spacing('pd-t','padding-top',$min_space);
+@include spacing('pd-b','padding-bottom',$min_space);
+

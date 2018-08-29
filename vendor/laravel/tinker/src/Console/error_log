@@ -1,0 +1,6 @@
+[17-Jul-2017 17:58:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 17:58:41 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 11
+[20-Jul-2017 00:17:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 00:17:04 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 11
+[20-Jul-2017 14:14:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:14:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 11

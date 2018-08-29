@@ -1,0 +1,14 @@
+[18-Jul-2017 18:35:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:53 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsEmptyTraversableTest.php on line 7
+[18-Jul-2017 18:35:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:55 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsTraversableWithSizeTest.php on line 5
+[23-Jul-2017 00:25:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 00:25:54 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsTraversableWithSizeTest.php on line 5
+[23-Jul-2017 02:10:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 02:10:52 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsEmptyTraversableTest.php on line 7
+[23-Jul-2017 15:03:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 15:03:18 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsEmptyTraversableTest.php on line 7
+[23-Jul-2017 18:16:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 18:16:06 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsEmptyTraversableTest.php on line 7
+[24-Jul-2017 09:27:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 09:27:56 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsTraversableWithSizeTest.php on line 5

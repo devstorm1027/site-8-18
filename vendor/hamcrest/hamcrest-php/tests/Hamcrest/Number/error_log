@@ -1,0 +1,14 @@
+[18-Jul-2017 18:36:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:36:41 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 5
+[18-Jul-2017 18:36:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:36:44 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/OrderingComparisonTest.php on line 5
+[22-Jul-2017 21:54:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 21:54:04 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 5
+[22-Jul-2017 22:47:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 22:47:19 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/OrderingComparisonTest.php on line 5
+[23-Jul-2017 05:09:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 05:09:09 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/OrderingComparisonTest.php on line 5
+[23-Jul-2017 13:56:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 13:56:01 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 5
+[23-Jul-2017 22:44:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 22:44:10 America/Chicago] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 5

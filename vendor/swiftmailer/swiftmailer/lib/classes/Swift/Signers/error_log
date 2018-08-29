@@ -1,0 +1,32 @@
+[20-Jul-2017 22:00:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:00:06 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 17
+[20-Jul-2017 22:00:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:00:09 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 17
+[20-Jul-2017 22:00:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:00:11 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 17
+[20-Jul-2017 22:00:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:00:13 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[20-Jul-2017 22:00:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:00:24 America/Chicago] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 18
+[20-Jul-2017 22:00:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:00:29 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 19
+[25-Jul-2017 14:12:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 14:12:15 America/Chicago] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 18
+[25-Jul-2017 15:15:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 15:15:02 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[25-Jul-2017 15:56:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 15:56:30 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 17
+[25-Jul-2017 20:32:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 20:32:28 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 19
+[25-Jul-2017 23:00:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 23:00:11 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 17
+[25-Jul-2017 23:32:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 23:32:03 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 17
+[26-Jul-2017 00:23:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 00:23:47 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 17
+[26-Jul-2017 01:54:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 01:54:13 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 17
+[26-Jul-2017 09:50:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 09:50:56 America/Chicago] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 18
+[26-Jul-2017 15:48:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 15:48:33 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16

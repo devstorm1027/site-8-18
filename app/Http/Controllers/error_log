@@ -1,0 +1,4 @@
+[13-Jul-2017 13:54:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:54:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Controllers/Controller.php on line 11
+[18-Jul-2017 05:31:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 05:31:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Controllers/Controller.php on line 11

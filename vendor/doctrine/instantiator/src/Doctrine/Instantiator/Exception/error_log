@@ -1,0 +1,9 @@
+[21-Jul-2017 22:55:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 22:55:15 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/UnexpectedValueException.php on line 32
+[22-Jul-2017 03:01:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 14:36:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 14:36:36 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php on line 31
+[25-Jul-2017 18:23:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 18:23:05 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php on line 31
+[25-Jul-2017 23:49:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 23:49:22 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/UnexpectedValueException.php on line 32

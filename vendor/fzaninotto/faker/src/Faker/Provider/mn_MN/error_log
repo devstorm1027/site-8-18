@@ -1,0 +1,6 @@
+[20-Jul-2017 05:01:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 05:01:58 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/src/Faker/Provider/mn_MN/Person.php on line 6
+[20-Jul-2017 05:02:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 05:02:01 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/src/Faker/Provider/mn_MN/PhoneNumber.php on line 6
+[26-Jul-2017 05:14:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 05:14:13 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/src/Faker/Provider/mn_MN/PhoneNumber.php on line 6

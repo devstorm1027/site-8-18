@@ -1,0 +1,60 @@
+[18-Jul-2017 17:30:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:40 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEmptyString.php on line 16
+[18-Jul-2017 17:30:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:41 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringCase.php on line 14
+[18-Jul-2017 17:30:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:43 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringWhiteSpace.php on line 15
+[18-Jul-2017 17:30:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/MatchesPattern.php on line 12
+[18-Jul-2017 17:30:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:47 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContains.php on line 12
+[18-Jul-2017 17:30:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:49 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsIgnoringCase.php on line 12
+[18-Jul-2017 17:30:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:52 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsInOrder.php on line 14
+[18-Jul-2017 17:30:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:54 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringEndsWith.php on line 12
+[18-Jul-2017 17:30:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:56 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringStartsWith.php on line 12
+[18-Jul-2017 17:30:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:30:57 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/SubstringMatcher.php on line 12
+[20-Jul-2017 20:54:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 20:54:17 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringWhiteSpace.php on line 15
+[21-Jul-2017 18:40:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:45 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringStartsWith.php on line 12
+[21-Jul-2017 18:40:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:51 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContains.php on line 12
+[21-Jul-2017 18:40:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:53 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringCase.php on line 14
+[21-Jul-2017 18:40:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:57 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/SubstringMatcher.php on line 12
+[21-Jul-2017 18:40:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:59 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringEndsWith.php on line 12
+[21-Jul-2017 19:01:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:01:02 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringWhiteSpace.php on line 15
+[21-Jul-2017 20:05:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 20:05:44 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/MatchesPattern.php on line 12
+[21-Jul-2017 23:29:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:29:35 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsInOrder.php on line 14
+[22-Jul-2017 05:49:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:49:17 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsIgnoringCase.php on line 12
+[22-Jul-2017 05:56:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:56:51 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringEndsWith.php on line 12
+[22-Jul-2017 10:59:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 10:59:51 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEmptyString.php on line 16
+[22-Jul-2017 13:39:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 13:39:00 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEmptyString.php on line 16
+[22-Jul-2017 18:28:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 18:28:23 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsIgnoringCase.php on line 12
+[22-Jul-2017 23:28:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 23:28:39 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContains.php on line 12
+[23-Jul-2017 02:49:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 02:49:10 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsInOrder.php on line 14
+[24-Jul-2017 00:07:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 00:07:57 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/MatchesPattern.php on line 12
+[24-Jul-2017 20:56:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 20:56:35 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringStartsWith.php on line 12
+[24-Jul-2017 23:58:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 23:58:13 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/SubstringMatcher.php on line 12
+[25-Jul-2017 01:36:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 01:36:36 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringCase.php on line 14

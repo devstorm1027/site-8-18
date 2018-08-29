@@ -1,0 +1,10 @@
+[19-Jul-2017 03:10:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:10:42 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/Exception/InvalidArgumentExceptionTest.php on line 34
+[19-Jul-2017 03:10:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:10:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/Exception/UnexpectedValueExceptionTest.php on line 35
+[23-Jul-2017 23:53:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 23:53:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/Exception/UnexpectedValueExceptionTest.php on line 35
+[24-Jul-2017 01:32:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 01:32:43 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/Exception/InvalidArgumentExceptionTest.php on line 34
+[25-Jul-2017 13:31:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 13:31:43 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/Exception/UnexpectedValueExceptionTest.php on line 35

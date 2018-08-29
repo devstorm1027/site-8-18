@@ -1,0 +1,12 @@
+[24-Jul-2017 06:21:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 06:21:01 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Prophecy\ProphecyException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ObjectProphecyException.php on line 17
+[24-Jul-2017 07:48:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 07:48:42 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ProphecyException.php on line 17
+[24-Jul-2017 17:47:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 17:47:51 America/Chicago] PHP Fatal error:  Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php on line 17
+[25-Jul-2017 10:31:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 10:31:04 America/Chicago] PHP Fatal error:  Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php on line 17
+[25-Jul-2017 15:13:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 15:13:53 America/Chicago] PHP Fatal error:  Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php on line 17
+[26-Jul-2017 08:57:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 08:57:57 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ProphecyException.php on line 17

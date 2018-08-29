@@ -1,0 +1,12 @@
+[19-Jul-2017 03:14:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:13 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 14
+[19-Jul-2017 03:14:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:14:15 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsTraversableWithSize.php on line 15
+[22-Jul-2017 11:22:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 11:22:23 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 14
+[22-Jul-2017 15:07:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 15:07:13 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsTraversableWithSize.php on line 15
+[23-Jul-2017 16:07:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 16:07:28 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsTraversableWithSize.php on line 15
+[23-Jul-2017 22:52:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 22:52:17 America/Chicago] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 14

@@ -1,0 +1,26 @@
+[17-Jul-2017 15:30:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 15:30:14 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 14
+[18-Jul-2017 02:03:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 02:03:46 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/RuntimeException.php on line 14
+[18-Jul-2017 16:11:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 16:11:18 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/CoveredCodeNotExecutedException.php on line 17
+[18-Jul-2017 17:11:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 09:43:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 09:43:07 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/MissingCoversAnnotationException.php on line 17
+[19-Jul-2017 18:10:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 18:10:11 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 17
+[23-Jul-2017 13:26:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 14:56:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 14:56:37 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/MissingCoversAnnotationException.php on line 17
+[23-Jul-2017 14:58:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 14:58:54 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 14
+[23-Jul-2017 18:27:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 18:27:08 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/CoveredCodeNotExecutedException.php on line 17
+[24-Jul-2017 01:36:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 01:36:11 America/Chicago] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/RuntimeException.php on line 14
+[24-Jul-2017 04:01:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 04:01:12 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 17
+[24-Jul-2017 17:44:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 17:44:06 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 17
+[25-Jul-2017 01:20:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 01:20:44 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-code-coverage/src/Exception/CoveredCodeNotExecutedException.php on line 17

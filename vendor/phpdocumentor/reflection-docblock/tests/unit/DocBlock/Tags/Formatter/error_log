@@ -1,0 +1,4 @@
+[19-Jul-2017 18:51:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 18:51:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/unit/DocBlock/Tags/Formatter/PassthroughFormatterTest.php on line 23
+[26-Jul-2017 00:56:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 00:56:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/unit/DocBlock/Tags/Formatter/PassthroughFormatterTest.php on line 23

@@ -1,0 +1,6 @@
+[16-Jul-2017 08:39:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 08:39:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/object-enumerator/tests/EnumeratorTest.php on line 19
+[17-Jul-2017 08:13:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:13:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/object-enumerator/tests/EnumeratorTest.php on line 19
+[19-Jul-2017 08:37:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 08:37:25 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/object-enumerator/tests/EnumeratorTest.php on line 19

@@ -1,0 +1,42 @@
+[20-Jul-2017 22:06:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:06:40 America/Chicago] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 4
+[20-Jul-2017 22:06:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:06:42 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AttachmentTest.php on line 4
+[20-Jul-2017 22:06:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:06:49 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AttachmentTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/EmbeddedFileTest.php on line 4
+[20-Jul-2017 22:07:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:07:03 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/MimePartTest.php on line 4
+[20-Jul-2017 22:07:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:07:08 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderFactoryTest.php on line 4
+[20-Jul-2017 22:07:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:07:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderSetTest.php on line 4
+[20-Jul-2017 22:07:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:07:14 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_MimePartTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleMessageTest.php on line 4
+[20-Jul-2017 22:07:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:07:18 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleMimeEntityTest.php on line 4
+[25-Jul-2017 07:43:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 07:43:37 America/Chicago] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 4
+[25-Jul-2017 10:11:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 10:11:11 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/MimePartTest.php on line 4
+[25-Jul-2017 17:18:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 17:18:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderFactoryTest.php on line 4
+[25-Jul-2017 19:24:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 19:24:54 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/MimePartTest.php on line 4
+[25-Jul-2017 22:05:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 22:05:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderFactoryTest.php on line 4
+[25-Jul-2017 23:31:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 23:31:59 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleMimeEntityTest.php on line 4
+[25-Jul-2017 23:53:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 23:53:03 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AbstractMimeEntityTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AttachmentTest.php on line 4
+[26-Jul-2017 00:06:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 00:06:52 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AttachmentTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/EmbeddedFileTest.php on line 4
+[26-Jul-2017 03:48:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 03:48:25 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_MimePartTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleMessageTest.php on line 4
+[26-Jul-2017 06:19:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 06:19:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderFactoryTest.php on line 4
+[26-Jul-2017 06:51:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 06:51:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/SimpleHeaderSetTest.php on line 4
+[26-Jul-2017 13:50:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 13:50:08 America/Chicago] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 4
+[26-Jul-2017 14:12:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 14:12:21 America/Chicago] PHP Fatal error:  Class 'Swift_Mime_AttachmentTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/EmbeddedFileTest.php on line 4

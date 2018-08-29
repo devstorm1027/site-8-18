@@ -1,0 +1,10 @@
+[21-Jul-2017 21:45:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:45:19 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_Esmtp_Authenticator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/CramMd5Authenticator.php on line 17
+[21-Jul-2017 21:45:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:45:21 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_Esmtp_Authenticator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php on line 17
+[21-Jul-2017 21:45:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:45:29 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_Esmtp_Authenticator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/NTLMAuthenticator.php on line 19
+[21-Jul-2017 21:45:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:45:34 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_Esmtp_Authenticator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/PlainAuthenticator.php on line 17
+[21-Jul-2017 21:45:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 21:45:38 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_Esmtp_Authenticator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php on line 27

@@ -1,0 +1,12 @@
+[19-Jul-2017 03:12:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:12:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Calculator/IbanTest.php on line 8
+[19-Jul-2017 03:12:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:12:31 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Calculator/LuhnTest.php on line 8
+[22-Jul-2017 16:23:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 16:23:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Calculator/IbanTest.php on line 8
+[22-Jul-2017 16:28:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 16:28:36 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Calculator/LuhnTest.php on line 8
+[23-Jul-2017 15:48:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 15:48:33 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Calculator/IbanTest.php on line 8
+[24-Jul-2017 16:39:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 16:39:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/fzaninotto/faker/test/Faker/Calculator/LuhnTest.php on line 8

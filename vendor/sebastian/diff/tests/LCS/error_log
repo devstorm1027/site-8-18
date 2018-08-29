@@ -1,0 +1,20 @@
+[17-Jul-2017 19:37:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:37:20 America/Chicago] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/LongestCommonSubsequenceTest.php on line 16
+[17-Jul-2017 19:37:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:37:22 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Diff\LCS\LongestCommonSubsequenceTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/MemoryEfficientImplementationTest.php on line 17
+[17-Jul-2017 19:37:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:37:23 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Diff\LCS\LongestCommonSubsequenceTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/TimeEfficientImplementationTest.php on line 17
+[19-Jul-2017 09:01:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 09:01:30 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Diff\LCS\LongestCommonSubsequenceTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/TimeEfficientImplementationTest.php on line 17
+[19-Jul-2017 09:35:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 09:35:33 America/Chicago] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/LongestCommonSubsequenceTest.php on line 16
+[19-Jul-2017 21:45:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 21:45:44 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Diff\LCS\LongestCommonSubsequenceTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/MemoryEfficientImplementationTest.php on line 17
+[21-Jul-2017 19:22:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:22:07 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Diff\LCS\LongestCommonSubsequenceTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/TimeEfficientImplementationTest.php on line 17
+[22-Jul-2017 02:55:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 02:55:47 America/Chicago] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/LongestCommonSubsequenceTest.php on line 16
+[22-Jul-2017 18:26:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 18:26:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/LongestCommonSubsequenceTest.php on line 16
+[23-Jul-2017 00:52:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 00:52:52 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Diff\LCS\LongestCommonSubsequenceTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/sebastian/diff/tests/LCS/TimeEfficientImplementationTest.php on line 17

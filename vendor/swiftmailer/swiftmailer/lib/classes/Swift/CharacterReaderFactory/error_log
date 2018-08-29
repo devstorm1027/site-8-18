@@ -1,0 +1,2 @@
+[20-Jul-2017 21:53:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:53:35 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 17

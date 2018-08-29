@@ -1,0 +1,60 @@
+[20-Jul-2017 23:18:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 23:18:04 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Not.php on line 24
+[21-Jul-2017 05:55:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 05:55:21 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/HasKey.php on line 24
+[21-Jul-2017 15:22:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 15:22:51 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Type.php on line 24
+[21-Jul-2017 18:00:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:00:23 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Closure.php on line 24
+[21-Jul-2017 18:00:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:00:27 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/NotAnyOf.php on line 24
+[21-Jul-2017 18:00:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:16:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:16:58 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Any.php on line 24
+[21-Jul-2017 18:17:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:17:01 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/AnyOf.php on line 24
+[21-Jul-2017 18:17:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:17:04 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Not.php on line 24
+[21-Jul-2017 19:31:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:31:58 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Contains.php on line 24
+[21-Jul-2017 19:40:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:40:07 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Contains.php on line 24
+[21-Jul-2017 23:02:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:02:08 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Type.php on line 24
+[22-Jul-2017 01:00:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 01:00:03 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/HasValue.php on line 24
+[22-Jul-2017 02:54:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 02:54:17 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/HasKey.php on line 24
+[22-Jul-2017 03:14:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:30:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:30:25 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Not.php on line 24
+[22-Jul-2017 13:53:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 13:53:34 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/AnyOf.php on line 24
+[22-Jul-2017 16:24:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 16:24:17 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Ducktype.php on line 24
+[22-Jul-2017 22:30:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 22:30:12 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Ducktype.php on line 24
+[23-Jul-2017 00:25:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 00:25:14 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/MustBe.php on line 24
+[23-Jul-2017 01:41:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 01:41:04 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Subset.php on line 24
+[23-Jul-2017 02:34:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 02:34:02 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/NotAnyOf.php on line 24
+[23-Jul-2017 04:48:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 04:48:22 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Subset.php on line 24
+[23-Jul-2017 11:42:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 11:42:38 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Any.php on line 24
+[23-Jul-2017 14:56:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 14:56:14 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Subset.php on line 24
+[24-Jul-2017 03:42:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 03:42:32 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Contains.php on line 24
+[24-Jul-2017 11:30:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 11:30:26 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Contains.php on line 24
+[24-Jul-2017 11:47:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 11:47:57 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Closure.php on line 24
+[24-Jul-2017 13:15:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 13:15:25 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/MustBe.php on line 24
+[24-Jul-2017 23:55:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 23:55:31 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/Ducktype.php on line 24
+[25-Jul-2017 00:02:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 00:02:00 America/Chicago] PHP Fatal error:  Class 'Mockery\Matcher\MatcherAbstract' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/library/Mockery/Matcher/HasValue.php on line 24

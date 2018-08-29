@@ -1,0 +1,13 @@
+@media(max-width:800px){
+	#showimgfea {
+        position:initial;
+        margin:30px auto 0;
+        @include transform('initial !important');
+        display:block;
+        width: 99%;
+    }
+}
+
+.pd-b-xxl {
+    padding-bottom: 0px;
+}

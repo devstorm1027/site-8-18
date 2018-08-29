@@ -1,0 +1,12 @@
+[12-Jul-2017 23:31:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jul-2017 23:31:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/skusuitesite/public_html/web.skusuite.com/bootstrap/app.php on line 14
+[12-Jul-2017 23:32:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 10:58:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 10:58:32 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/skusuitesite/public_html/web.skusuite.com/bootstrap/app.php on line 14
+[14-Jul-2017 10:58:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 11:00:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:26:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:26:47 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/skusuitesite/public_html/web.skusuite.com/bootstrap/app.php on line 14
+[14-Jul-2017 17:28:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:29:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 13:30:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0

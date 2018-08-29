@@ -1,0 +1,6 @@
+[13-Jul-2017 13:51:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:51:33 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/skusuitesite/public_html/web.skusuite.com/database/seeds/DatabaseSeeder.php on line 6
+[14-Jul-2017 22:11:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 22:11:30 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/skusuitesite/public_html/web.skusuite.com/database/seeds/DatabaseSeeder.php on line 6
+[16-Jul-2017 02:10:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 02:10:16 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/skusuitesite/public_html/web.skusuite.com/database/seeds/DatabaseSeeder.php on line 6

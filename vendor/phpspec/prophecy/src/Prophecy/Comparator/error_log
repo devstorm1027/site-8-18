@@ -1,0 +1,12 @@
+[21-Jul-2017 20:40:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 20:40:26 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Comparator/ProphecyComparator.php on line 18
+[21-Jul-2017 23:33:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:33:22 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Factory' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Comparator/Factory.php on line 22
+[22-Jul-2017 04:26:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 04:26:03 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Comparator/ClosureComparator.php on line 23
+[22-Jul-2017 05:38:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:38:36 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Comparator/ClosureComparator.php on line 23
+[23-Jul-2017 05:20:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 05:20:34 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Comparator/ProphecyComparator.php on line 18
+[23-Jul-2017 08:37:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 08:37:15 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Factory' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Comparator/Factory.php on line 22

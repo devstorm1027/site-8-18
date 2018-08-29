@@ -1,0 +1,8 @@
+[12-Jul-2017 23:31:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jul-2017 23:31:24 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/skusuitesite/public_html/web.skusuite.com/app/User.php on line 9
+[14-Jul-2017 13:00:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 13:00:16 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/skusuitesite/public_html/web.skusuite.com/app/User.php on line 9
+[14-Jul-2017 19:33:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 19:33:56 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/skusuitesite/public_html/web.skusuite.com/app/User.php on line 9
+[15-Jul-2017 13:29:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 13:29:54 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/skusuitesite/public_html/web.skusuite.com/app/User.php on line 9

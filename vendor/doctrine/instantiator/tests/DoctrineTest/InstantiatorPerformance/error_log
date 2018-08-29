@@ -1,0 +1,6 @@
+[18-Jul-2017 13:36:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 13:36:26 America/Chicago] PHP Fatal error:  Class 'Athletic\AthleticEvent' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorPerformance/InstantiatorPerformanceEvent.php on line 31
+[21-Jul-2017 18:40:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:21 America/Chicago] PHP Fatal error:  Class 'Athletic\AthleticEvent' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorPerformance/InstantiatorPerformanceEvent.php on line 31
+[24-Jul-2017 04:28:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 04:28:01 America/Chicago] PHP Fatal error:  Class 'Athletic\AthleticEvent' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorPerformance/InstantiatorPerformanceEvent.php on line 31

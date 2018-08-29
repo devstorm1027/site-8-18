@@ -1,0 +1,38 @@
+[17-Jul-2017 19:40:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:40:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClassTest.php on line 24
+[17-Jul-2017 19:40:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:40:59 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClosureTest.php on line 24
+[17-Jul-2017 19:41:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:41:00 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/FunctionTest.php on line 24
+[17-Jul-2017 19:41:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:41:02 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/IncludeTest.php on line 25
+[17-Jul-2017 19:41:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:41:04 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/InterfaceTest.php on line 25
+[17-Jul-2017 19:41:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:41:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/NamespaceTest.php on line 24
+[18-Jul-2017 13:39:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 13:39:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/NamespaceTest.php on line 24
+[18-Jul-2017 22:06:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 22:06:58 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClassTest.php on line 24
+[19-Jul-2017 01:08:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 01:08:34 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClosureTest.php on line 24
+[19-Jul-2017 03:02:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:02:04 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/InterfaceTest.php on line 25
+[19-Jul-2017 13:30:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 13:30:07 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/IncludeTest.php on line 25
+[19-Jul-2017 13:45:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 13:45:15 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/FunctionTest.php on line 24
+[20-Jul-2017 04:45:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 04:45:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClosureTest.php on line 24
+[20-Jul-2017 06:40:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 06:40:25 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/FunctionTest.php on line 24
+[20-Jul-2017 14:16:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:16:32 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/IncludeTest.php on line 25
+[20-Jul-2017 14:16:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:16:34 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClosureTest.php on line 24
+[20-Jul-2017 14:42:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:42:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/NamespaceTest.php on line 24
+[20-Jul-2017 14:43:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:43:10 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/InterfaceTest.php on line 25
+[20-Jul-2017 22:39:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:39:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpunit/php-token-stream/tests/Token/ClassTest.php on line 24

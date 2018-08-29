@@ -1,0 +1,6 @@
+[15-Jul-2017 06:04:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 06:04:58 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/webmozart/assert/tests/AssertTest.php on line 29
+[17-Jul-2017 11:07:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 11:07:01 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/webmozart/assert/tests/AssertTest.php on line 29
+[18-Jul-2017 16:40:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 16:40:25 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/webmozart/assert/tests/AssertTest.php on line 29

@@ -1,0 +1,12 @@
+[13-Jul-2017 13:51:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:51:34 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/skusuitesite/public_html/web.skusuite.com/database/migrations/2014_10_12_000000_create_users_table.php on line 8
+[13-Jul-2017 13:52:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:52:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/skusuitesite/public_html/web.skusuite.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 8
+[14-Jul-2017 22:12:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 22:12:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/skusuitesite/public_html/web.skusuite.com/database/migrations/2014_10_12_000000_create_users_table.php on line 8
+[14-Jul-2017 22:16:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 22:16:44 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/skusuitesite/public_html/web.skusuite.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 8
+[16-Jul-2017 02:09:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 02:09:37 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/skusuitesite/public_html/web.skusuite.com/database/migrations/2014_10_12_000000_create_users_table.php on line 8
+[20-Jul-2017 01:43:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 01:43:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/skusuitesite/public_html/web.skusuite.com/database/migrations/2014_10_12_000000_create_users_table.php on line 8

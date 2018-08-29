@@ -1,0 +1,7 @@
+[21-Jul-2017 08:45:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 08:45:39 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 15
+[23-Jul-2017 16:45:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 23:27:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 23:27:06 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 15
+[24-Jul-2017 17:04:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 05:18:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0

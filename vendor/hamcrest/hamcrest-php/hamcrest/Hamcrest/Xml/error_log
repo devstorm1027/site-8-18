@@ -1,0 +1,6 @@
+[18-Jul-2017 18:35:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 18
+[20-Jul-2017 09:47:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 09:47:35 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 18
+[22-Jul-2017 06:19:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 06:19:55 America/Chicago] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 18

@@ -1,0 +1,4 @@
+[21-Jul-2017 10:28:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:28:57 America/Chicago] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[21-Jul-2017 10:28:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:28:59 America/Chicago] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16

@@ -1,0 +1,30 @@
+$font-primary : "Monserrat", Helvetica, Arial, sans-serif;
+$font-second : "Lato", Helvetica, Arial, sans-serif;
+
+//navbar
+$navbar-color-default: #fff;
+$navbar-color-active:#fff;
+$color-link-navbar:#1f1f1f;
+$link-m-font-weight:400;
+$max-height-navbar:54px;
+
+//form
+$color-border-form: rgba(0,0,0,.2);
+
+//carousel
+$carousel-height : 100%;
+$slider : (slide-1:'../img/banner/4.jpg',slide-2:'../img/banner/5.jpg',slide-3:'../img/banner/7.jpg');
+
+
+$bg-color:(black:#131313,white:#fff,white-2:#f5f5f5);
+
+$color-orange:#f68816;
+$color-primary:#f68816;
+$color-white:#fff;
+$color-light:#f5f5f5;
+$color-dark:#0f0f0f;
+$color-light-second:#ECF0F5;
+$color-secondary: map-get($bg-color,black);
+
+$unidades : xs,sm,md,lg,xl,xxl;
+

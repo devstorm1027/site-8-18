@@ -1,0 +1,4 @@
+[21-Jul-2017 10:30:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:30:05 America/Chicago] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 17
+[21-Jul-2017 10:30:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:30:07 America/Chicago] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 17

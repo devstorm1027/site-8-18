@@ -1,0 +1,27 @@
+{
+  "name": "skusuite-website",
+  "description": "website of skusuite plataform",
+  "main": "",
+  "authors": [
+    "Carlos Escorche <carlosescorchep@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "font-awesome": "^4.7.0",
+    "simple-line-icons": "^2.4.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.45",
+    "jquery.parallax-scroll": "*",
+    "waypoints": "^4.0.1"
+  }
+}

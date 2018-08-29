@@ -1,0 +1,7 @@
+[20-Jul-2017 14:19:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:19:34 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 34
+[21-Jul-2017 03:10:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 05:44:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 05:44:00 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 34
+[21-Jul-2017 16:34:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 20:51:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0

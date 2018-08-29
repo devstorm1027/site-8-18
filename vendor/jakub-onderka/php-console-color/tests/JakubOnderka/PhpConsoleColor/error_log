@@ -1,0 +1,6 @@
+[18-Jul-2017 18:37:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:37:35 America/Chicago] PHP Fatal error:  Class 'JakubOnderka\PhpConsoleColor\ConsoleColor' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/jakub-onderka/php-console-color/tests/JakubOnderka/PhpConsoleColor/ConsoleColorTest.php on line 5
+[21-Jul-2017 11:43:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 11:43:26 America/Chicago] PHP Fatal error:  Class 'JakubOnderka\PhpConsoleColor\ConsoleColor' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/jakub-onderka/php-console-color/tests/JakubOnderka/PhpConsoleColor/ConsoleColorTest.php on line 5
+[24-Jul-2017 10:28:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 10:28:38 America/Chicago] PHP Fatal error:  Class 'JakubOnderka\PhpConsoleColor\ConsoleColor' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/jakub-onderka/php-console-color/tests/JakubOnderka/PhpConsoleColor/ConsoleColorTest.php on line 5

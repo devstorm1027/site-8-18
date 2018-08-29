@@ -1,0 +1,28 @@
+[18-Jul-2017 19:31:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 19:31:48 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 10
+[18-Jul-2017 19:31:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 19:31:50 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 10
+[18-Jul-2017 19:31:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 19:31:51 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 10
+[18-Jul-2017 19:31:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 19:31:53 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 11
+[22-Jul-2017 01:09:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 01:09:17 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 10
+[22-Jul-2017 12:03:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 12:03:51 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 11
+[22-Jul-2017 23:05:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 23:05:57 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 10
+[24-Jul-2017 23:16:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 23:16:35 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 10
+[25-Jul-2017 14:14:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 14:14:04 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 10
+[25-Jul-2017 15:28:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 15:28:23 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 11
+[25-Jul-2017 21:42:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 21:42:09 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 10
+[25-Jul-2017 22:27:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 22:27:46 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 10
+[26-Jul-2017 12:55:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 12:55:51 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 10
+[26-Jul-2017 13:33:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 13:33:42 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 10

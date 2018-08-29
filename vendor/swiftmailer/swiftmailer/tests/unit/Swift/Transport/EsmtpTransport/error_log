@@ -1,0 +1,4 @@
+[21-Jul-2017 10:33:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:33:34 America/Chicago] PHP Fatal error:  Class 'Swift_Transport_AbstractSmtpEventSupportTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/EsmtpTransportTest.php on line 4
+[26-Jul-2017 08:23:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 08:23:01 America/Chicago] PHP Fatal error:  Class 'Swift_Transport_AbstractSmtpEventSupportTest' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/EsmtpTransportTest.php on line 4

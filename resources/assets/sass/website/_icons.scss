@@ -1,0 +1,75 @@
+.icon-circle{
+	position: relative;
+    width: 95px;
+    height: 95px;
+    border-radius: 50%;
+    border: 1px solid $color-dark;
+    text-align: center;
+    line-height: 85px;
+    color: $color-dark;
+	cursor:pointer;
+	@include transition('all .3s');
+	i{
+		vertical-align: middle;
+		font-size: 50px;
+		@include transition('all .5s');
+	}
+
+	& .fa-cubes{
+		margin-left: 5px;
+	}
+
+	& .fa-truck{
+		font-size: 55px;
+    	margin-right: 5px;
+	}
+
+	&.combined{
+		.comb{
+			position: absolute;
+		    top: 0;
+		    bottom: -25px;
+		    left: 0;
+		    right: -40px;
+		    width: 35px;
+		    height: 35px;
+		    margin: auto;
+		    color: #fff;
+		    background-color: $color-primary;
+		    border-radius: 50%;
+		    padding: 8px 0;
+		    border: 1px solid $color-dark;
+			@include transition('all .3s');
+			
+			& .fa-truck{
+				@include transform('scaleX(-1)');    
+			    filter: FlipH;
+			    -ms-filter: "FlipH";
+			    margin-left: 8px;
+			}
+
+			& .fa-calculator{
+				margin-left: 2px;
+			}
+
+		    i{
+		    	font-size: 20px;
+    			vertical-align: top;
+    			@include transition('all .3s');
+
+		    }
+		}
+	}
+
+	&:hover{
+		border-color:$color-primary;
+		i{
+			@include transform('scale(0.95,.95)');	
+		}
+		&.combined{
+			.comb{							
+				@include transform('scale(0.9,.9)');
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+[17-Jul-2017 19:39:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:39:07 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/InterpretingDocBlocksTest.php on line 24
+[17-Jul-2017 19:39:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:39:09 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/ReconstitutingADocBlockTest.php on line 24
+[17-Jul-2017 19:39:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:39:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/UsingTagsTest.php on line 24
+[17-Jul-2017 23:36:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 23:36:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/ReconstitutingADocBlockTest.php on line 24
+[19-Jul-2017 05:06:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 05:06:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/UsingTagsTest.php on line 24
+[19-Jul-2017 14:19:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 14:19:18 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/InterpretingDocBlocksTest.php on line 24
+[21-Jul-2017 19:35:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:35:12 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/UsingTagsTest.php on line 24
+[22-Jul-2017 05:06:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:06:19 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/InterpretingDocBlocksTest.php on line 24
+[22-Jul-2017 05:57:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 05:57:23 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/ReconstitutingADocBlockTest.php on line 24
+[22-Jul-2017 18:03:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 18:03:58 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpdocumentor/reflection-docblock/tests/integration/InterpretingDocBlocksTest.php on line 24

@@ -1,0 +1,25 @@
+[25-Jul-2017 16:27:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 16:27:07 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/ReflectionClassNewInstancePatch.php on line 23
+[25-Jul-2017 16:29:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 16:29:12 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/SplFileInfoPatch.php on line 24
+[25-Jul-2017 17:45:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 17:45:31 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/SplFileInfoPatch.php on line 24
+[25-Jul-2017 19:12:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 19:12:42 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/MagicCallPatch.php on line 27
+[25-Jul-2017 19:22:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 19:22:38 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/KeywordPatch.php on line 22
+[25-Jul-2017 19:23:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 04:02:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 04:02:51 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/HhvmExceptionPatch.php on line 22
+[26-Jul-2017 06:07:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 06:07:42 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/DisableConstructorPatch.php on line 24
+[26-Jul-2017 08:07:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 08:07:18 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/TraversablePatch.php on line 24
+[26-Jul-2017 08:50:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 08:50:16 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/ProphecySubjectPatch.php on line 25
+[26-Jul-2017 09:38:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 09:38:30 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/HhvmExceptionPatch.php on line 22
+[26-Jul-2017 09:41:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 09:41:06 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/DisableConstructorPatch.php on line 24
+[26-Jul-2017 11:36:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 11:36:56 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Doubler\ClassPatch\ClassPatchInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Doubler/ClassPatch/KeywordPatch.php on line 22

@@ -1,0 +1,48 @@
+[19-Jul-2017 03:13:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:40 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php on line 21
+[19-Jul-2017 03:13:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:42 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php on line 16
+[19-Jul-2017 03:13:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:45 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php on line 15
+[19-Jul-2017 03:13:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php on line 15
+[19-Jul-2017 03:13:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:48 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php on line 16
+[19-Jul-2017 03:13:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:51 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php on line 17
+[19-Jul-2017 03:13:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 03:13:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:51:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:51:03 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php on line 16
+[21-Jul-2017 00:48:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 00:48:53 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php on line 21
+[21-Jul-2017 03:58:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 03:58:04 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php on line 15
+[21-Jul-2017 18:13:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:13:30 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php on line 21
+[21-Jul-2017 18:40:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:47 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php on line 16
+[21-Jul-2017 18:40:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:40:55 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayWithSize.php on line 17
+[21-Jul-2017 19:01:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 19:01:01 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php on line 15
+[22-Jul-2017 00:30:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 00:30:31 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php on line 16
+[22-Jul-2017 03:28:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 03:28:35 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php on line 17
+[22-Jul-2017 20:42:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 20:42:11 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php on line 15
+[23-Jul-2017 01:58:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 01:58:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php on line 21
+[23-Jul-2017 04:04:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 08:48:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 08:48:36 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php on line 16
+[23-Jul-2017 10:56:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 10:56:31 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php on line 15
+[23-Jul-2017 19:05:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 19:05:18 America/Chicago] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayWithSize.php on line 17
+[24-Jul-2017 05:56:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 05:56:03 America/Chicago] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php on line 17
+[24-Jul-2017 12:18:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0

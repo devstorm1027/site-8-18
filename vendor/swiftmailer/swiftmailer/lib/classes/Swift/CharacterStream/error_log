@@ -1,0 +1,10 @@
+[20-Jul-2017 21:54:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:54:03 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17
+[20-Jul-2017 21:54:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:54:07 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 17
+[25-Jul-2017 19:23:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 19:23:38 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17
+[26-Jul-2017 04:59:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 04:59:33 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17
+[26-Jul-2017 18:41:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 18:41:19 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 17

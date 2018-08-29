@@ -1,0 +1,52 @@
+[17-Jul-2017 18:05:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/AbstractFieldTest.php on line 12
+[17-Jul-2017 18:05:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/CronExpressionTest.php on line 15
+[17-Jul-2017 18:05:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/DayOfWeekFieldTest.php on line 13
+[17-Jul-2017 18:05:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:53 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/FieldFactoryTest.php on line 12
+[17-Jul-2017 18:05:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/HoursFieldTest.php on line 13
+[17-Jul-2017 18:05:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/MinutesFieldTest.php on line 13
+[17-Jul-2017 18:05:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:05:58 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/MonthFieldTest.php on line 13
+[17-Jul-2017 18:06:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 18:06:00 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/YearFieldTest.php on line 13
+[17-Jul-2017 19:22:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:22:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/FieldFactoryTest.php on line 12
+[18-Jul-2017 05:28:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 05:28:04 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/MinutesFieldTest.php on line 13
+[18-Jul-2017 05:39:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 05:39:38 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/AbstractFieldTest.php on line 12
+[18-Jul-2017 19:12:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 19:12:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/CronExpressionTest.php on line 15
+[19-Jul-2017 00:00:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 00:00:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/DayOfWeekFieldTest.php on line 13
+[19-Jul-2017 04:17:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 04:17:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/HoursFieldTest.php on line 13
+[19-Jul-2017 08:23:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 08:23:40 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/MonthFieldTest.php on line 13
+[20-Jul-2017 02:55:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 02:55:58 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/YearFieldTest.php on line 13
+[20-Jul-2017 17:15:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 17:15:02 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/DayOfMonthFieldTest.php on line 13
+[20-Jul-2017 21:39:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:39:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/YearFieldTest.php on line 13
+[20-Jul-2017 21:40:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:40:37 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/DayOfMonthFieldTest.php on line 13
+[20-Jul-2017 22:41:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:41:03 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/MinutesFieldTest.php on line 13
+[21-Jul-2017 02:26:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:26:40 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/MonthFieldTest.php on line 13
+[21-Jul-2017 02:26:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:26:40 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/FieldFactoryTest.php on line 12
+[21-Jul-2017 18:04:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:04:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/AbstractFieldTest.php on line 12
+[21-Jul-2017 23:58:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:58:37 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/DayOfWeekFieldTest.php on line 13
+[22-Jul-2017 08:05:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 08:05:49 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/CronExpressionTest.php on line 15
+[22-Jul-2017 12:52:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 12:52:53 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/mtdowling/cron-expression/tests/Cron/HoursFieldTest.php on line 13

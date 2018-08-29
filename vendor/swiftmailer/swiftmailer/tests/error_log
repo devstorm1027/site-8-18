@@ -1,0 +1,39 @@
+[15-Jul-2017 22:18:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 22:18:37 America/Chicago] PHP Warning:  require_once(/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[15-Jul-2017 22:18:37 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[16-Jul-2017 09:43:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 10:10:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 03:05:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 03:05:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/SwiftMailerTestCase.php on line 9
+[17-Jul-2017 07:14:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 07:14:01 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php on line 9
+[17-Jul-2017 08:15:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:15:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Constraint' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php on line 9
+[17-Jul-2017 08:18:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:18:14 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Constraint' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php on line 9
+[17-Jul-2017 08:18:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:18:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:18:21 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/SwiftMailerTestCase.php on line 9
+[17-Jul-2017 08:18:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:18:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 08:18:30 America/Chicago] PHP Warning:  require_once(/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[17-Jul-2017 08:18:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[17-Jul-2017 08:19:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 13:17:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 22:52:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 23:16:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 10:09:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 10:09:19 America/Chicago] PHP Warning:  require_once(/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[20-Jul-2017 10:09:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[20-Jul-2017 10:43:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 10:43:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/SwiftMailerTestCase.php on line 9
+[20-Jul-2017 14:16:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:16:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Constraint' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php on line 9
+[20-Jul-2017 14:16:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 14:16:19 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php on line 9
+[21-Jul-2017 08:10:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 00:01:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 00:01:20 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php on line 9
+[22-Jul-2017 22:46:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 22:46:00 America/Chicago] PHP Warning:  require_once(/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[22-Jul-2017 22:46:00 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3

@@ -1,0 +1,16 @@
+[13-Jul-2017 13:51:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:54:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:54:20 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/TrimStrings.php on line 8
+[13-Jul-2017 13:54:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:54:47 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/EncryptCookies.php on line 8
+[13-Jul-2017 13:54:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2017 13:54:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/VerifyCsrfToken.php on line 8
+[18-Jul-2017 12:26:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 12:26:16 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/EncryptCookies.php on line 8
+[18-Jul-2017 12:59:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 12:59:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/TrimStrings.php on line 8
+[19-Jul-2017 00:06:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 00:06:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/EncryptCookies.php on line 8
+[19-Jul-2017 18:26:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 18:26:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/skusuitesite/public_html/web.skusuite.com/app/Http/Middleware/VerifyCsrfToken.php on line 8
+[20-Jul-2017 14:09:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0

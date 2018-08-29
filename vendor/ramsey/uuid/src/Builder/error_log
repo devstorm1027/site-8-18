@@ -1,0 +1,15 @@
+[17-Jul-2017 19:34:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:34:33 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 26
+[17-Jul-2017 19:34:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 19:34:35 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 25
+[17-Jul-2017 19:34:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 00:45:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 01:16:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jul-2017 01:16:08 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 26
+[20-Jul-2017 07:45:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 07:45:26 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 25
+[20-Jul-2017 08:47:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 16:44:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 16:44:25 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 26
+[20-Jul-2017 19:34:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 19:34:50 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 25

@@ -1,0 +1,20 @@
+[18-Jul-2017 12:41:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 12:41:25 America/Chicago] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableParameters.php on line 30
+[18-Jul-2017 12:41:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 12:41:27 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 28
+[18-Jul-2017 12:41:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 12:41:29 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/VoidMethod.php on line 26
+[23-Jul-2017 01:30:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 01:30:26 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 28
+[23-Jul-2017 07:51:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 07:51:51 America/Chicago] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableParameters.php on line 30
+[24-Jul-2017 12:33:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 12:33:21 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/VoidMethod.php on line 26
+[26-Jul-2017 08:44:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 08:44:35 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/VoidMethod.php on line 26
+[26-Jul-2017 13:04:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 13:04:57 America/Chicago] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableParameters.php on line 30
+[26-Jul-2017 16:41:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 16:41:25 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 28
+[26-Jul-2017 21:03:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 21:03:57 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Mockery/Fixtures/VoidMethod.php on line 26

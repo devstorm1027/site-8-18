@@ -1,0 +1,18 @@
+[21-Jul-2017 08:00:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 22:05:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 22:05:22 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 26
+[21-Jul-2017 23:09:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:57:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 23:57:08 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 25
+[22-Jul-2017 03:17:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 03:17:56 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 25
+[22-Jul-2017 04:01:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 04:01:28 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 23
+[24-Jul-2017 02:50:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 02:50:39 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 26
+[24-Jul-2017 03:17:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 03:17:25 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 24
+[24-Jul-2017 19:56:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 19:56:03 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 23
+[25-Jul-2017 06:24:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 06:24:09 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 24

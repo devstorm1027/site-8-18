@@ -1,0 +1,14 @@
+[20-Jul-2017 22:04:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:04:35 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Base64EncoderTest.php on line 4
+[20-Jul-2017 22:04:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:04:39 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/QpEncoderTest.php on line 4
+[20-Jul-2017 22:04:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 22:04:42 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Rfc2231EncoderTest.php on line 4
+[25-Jul-2017 00:38:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 00:38:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Base64EncoderTest.php on line 4
+[25-Jul-2017 04:14:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 04:14:23 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Rfc2231EncoderTest.php on line 4
+[25-Jul-2017 05:37:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 05:37:37 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/QpEncoderTest.php on line 4
+[25-Jul-2017 23:26:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 23:26:40 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Rfc2231EncoderTest.php on line 4

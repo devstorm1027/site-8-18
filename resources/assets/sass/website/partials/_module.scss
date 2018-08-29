@@ -1,0 +1,152 @@
+#section-module{
+	padding:100px 0 80px;
+	min-height: 700px;
+	background: $color-light-second;
+	overflow:hidden;
+}
+
+.module{
+	position:relative;
+	padding:100px 15px;
+	width:100%;
+	float:left;
+
+	&:before{
+		position:absolute;
+		color: rgba(0,0,0,.06);
+		  font-family: "Lato";
+	}
+
+	.content{
+		    background: #fff;
+		    padding: 35px 60px;
+		    padding-right: 300px;
+
+		.title{
+			margin-bottom: 40px;
+		}
+
+		img{
+			position: absolute;
+		    right: -450px;
+		    top:100px;
+		    width: 750px;
+		}
+
+		&.left{
+			padding:60px;
+			 padding-left: 300px;
+		}
+
+	}
+
+	&.module-orders{
+		img{
+			left: -565px; width: 940px;top: 100px;
+		}
+	}
+
+	&.module-inventory{
+		img{
+			right: -565px; width: 940px;top: 100px;
+		}
+	}
+
+	@media(max-width:1300px){
+		.content{
+			padding-right: 300px;
+			img{
+				right: -350px;
+			    width: 650px;
+			}
+
+			&.left{
+				padding-left: 200px;
+			}
+		}
+
+		&.module-orders{
+			img{
+				left: -465px; width: 740px;top: 100px;
+			}
+		}
+
+		&.module-inventory{
+			img{
+				right: -465px; width: 740px;top: 100px;
+			}
+		}
+	}
+
+
+	@media(max-width:1100px){
+		.content{
+			padding-right: 200px;
+			img{
+				width: 550px;
+			}
+		}
+
+		&.module-orders{
+			img{
+				left: -365px; width: 640px;top: 100px;
+			}
+		}
+
+		&.module-inventory{
+			img{
+				right: -365px; width: 640px;top: 100px;
+			}
+		}
+	}
+
+
+	@media(max-width:1000px){
+		padding:40px 15px;
+		.content{
+			width: 100% !important;
+			margin: 0 !important;
+			  padding: 35px 60px !important;
+			img{
+				display: none;
+			}
+		}
+
+		&:before{
+			display: none;
+		}
+	}
+
+}
+
+.module-shipping{
+	&:before{
+		content: "Shipping";
+		padding-top: 50px;
+	    right: -135px;
+	    font-size: 150px;
+	    font-weight: 900;
+	    top: 0px;
+	}
+
+}
+
+.module-orders{
+	&:before{
+	    content: "Orders";
+	    left: -20px;
+	    top: 45px;
+	    font-size: 150px;
+	    font-weight: 900;
+	}
+}
+
+.module-inventory{
+	&:before{
+	    content: "Inventory";
+	    right: -135px;	   
+	    font-size: 150px;
+	    font-weight: 900;
+	    top: 70px;
+	}
+}

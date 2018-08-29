@@ -1,0 +1,54 @@
+[23-Jul-2017 16:21:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 16:21:13 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/LogicalNotToken.php on line 20
+[23-Jul-2017 16:23:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 16:23:40 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/AnyValuesToken.php on line 20
+[23-Jul-2017 17:06:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 19:02:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 19:02:11 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/AnyValueToken.php on line 20
+[23-Jul-2017 20:02:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 20:02:02 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/IdenticalValueToken.php on line 22
+[23-Jul-2017 20:33:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 20:33:47 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ObjectStateToken.php on line 24
+[23-Jul-2017 22:55:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 22:55:44 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ArrayCountToken.php on line 21
+[24-Jul-2017 01:09:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 01:09:25 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/TypeToken.php on line 22
+[24-Jul-2017 01:28:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 01:28:21 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/CallbackToken.php on line 22
+[24-Jul-2017 02:26:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 02:26:27 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/StringContainsToken.php on line 20
+[24-Jul-2017 02:29:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 02:29:10 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ApproximateValueToken.php on line 20
+[24-Jul-2017 04:49:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 04:49:30 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ExactValueToken.php on line 24
+[24-Jul-2017 09:41:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 09:41:41 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/StringContainsToken.php on line 20
+[24-Jul-2017 09:59:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 09:59:34 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ArrayEntryToken.php on line 22
+[24-Jul-2017 18:42:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 18:42:13 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/CallbackToken.php on line 22
+[24-Jul-2017 19:06:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 19:06:21 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ArrayEveryEntryToken.php on line 20
+[24-Jul-2017 19:30:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 19:30:00 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/LogicalAndToken.php on line 20
+[25-Jul-2017 02:45:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 02:45:00 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ArrayEveryEntryToken.php on line 20
+[25-Jul-2017 07:28:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 07:28:16 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/LogicalAndToken.php on line 20
+[25-Jul-2017 12:34:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 20:18:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 20:18:34 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/TypeToken.php on line 22
+[25-Jul-2017 20:28:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 20:28:51 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ArrayEntryToken.php on line 22
+[25-Jul-2017 22:56:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2017 22:56:24 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ExactValueToken.php on line 24
+[26-Jul-2017 04:14:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 04:14:12 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/TypeToken.php on line 22
+[26-Jul-2017 07:41:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 07:41:10 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/TypeToken.php on line 22
+[26-Jul-2017 09:24:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 09:24:34 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ApproximateValueToken.php on line 20
+[26-Jul-2017 12:48:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 12:48:45 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/AnyValueToken.php on line 20
+[26-Jul-2017 12:56:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 12:56:19 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Argument\Token\TokenInterface' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/phpspec/prophecy/src/Prophecy/Argument/Token/ObjectStateToken.php on line 24

@@ -1,0 +1,130 @@
+$btn-primary-color:#f68816;
+$btn-primary-text-color:#fff;
+
+$btn-default-color:#fff;
+$btn-default-text-color:#f68816;
+
+$btn-round:40px;
+
+$unidades : xs,sm,md,lg,xl;
+
+@mixin btn-component($background,$color){
+	background: $background;
+	color: $color;
+	border-color:$background;
+}
+
+@mixin btn-inverted($background,$border-color,$color){
+	background: $background;
+	border-color: $border-color;
+	color: $color;
+	border-width:1px;
+	border-style:solid;
+}
+
+@mixin btn-inverted-hover($background,$color,$border-color:$background){
+	background: $background;
+	color: $color;
+	border-color: $border-color;
+}
+
+.btn{
+	position:relative;
+	padding: 13px 20px 13px;
+	font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+	@include transition('background-color 0.3s, color 0.3s');
+}
+
+$h : 5px;
+$w : 20px;
+@each $u in $unidades{
+	$h : $h + 2px;
+	$w : $w + 2px;
+	.btn-#{$u}{
+		padding:$h $w $h $w;		
+	}
+}
+
+.btn-round{
+	border-radius:$btn-round;
+}
+
+.btn-primary{	
+	@include btn-component($btn-primary-color,$btn-primary-text-color);
+}
+
+%btn-primary-border-before{
+	border-color:$btn-default-color;
+}	
+
+.btn-primary::before{
+	border-color:$btn-default-color;
+}
+
+.btn-default{
+	@include btn-component($btn-default-color,$btn-default-text-color);
+}
+
+.btn-dark{	
+	@include btn-component($color-dark,$btn-primary-text-color);
+}
+
+.btn-inverted-primary{
+	@include btn-inverted(transparent, $btn-primary-color,$btn-primary-text-color);
+}
+
+.btn-inverted-primary::before{
+	@extend %btn-primary-border-before;
+}
+
+
+.navbar{
+	.btn-inverted-primary{
+		@include btn-inverted(transparent, $btn-primary-color,$color-dark);
+	}	
+}
+
+
+.btn-inverted-default{
+	@include btn-inverted(transparent, $btn-default-color,$btn-default-text-color);
+}
+
+
+.btn-inverted-primary:hover{
+	@include btn-inverted-hover($btn-primary-color,$btn-primary-text-color);
+}
+
+.btn-inverted-default:hover{
+	@include btn-inverted-hover($btn-default-color,$btn-default-text-color);
+}
+
+
+.btn-primary:hover {
+	@include btn-component($btn-default-color,$btn-default-text-color);
+	&.black{
+		background-color:$color-secondary;
+		color:#fff;
+	}
+}
+
+.btn-dark:hover {
+	@include btn-component($btn-default-color,$btn-default-text-color);	
+}
+
+.btn-default:hover {
+	@include btn-component($btn-primary-color,$btn-primary-text-color);
+}
+
+.btn:hover::before {
+	-webkit-transform: scale3d(1, 1, 1);
+	transform: scale3d(1, 1, 1);
+	opacity: 1;
+}
+
+.btn-lg, .btn-group-lg > .btn{
+
+}
+
+

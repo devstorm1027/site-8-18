@@ -1,0 +1,291 @@
+$tag-banner : 'bnner';
+
+%animation{
+  @include prefixer(mask,url(../img/banner/urban-sprite.png));
+  @include prefixer(mask-size,3000% 100%);
+  @include prefixer(animation,mask-play 1.4s steps(29) forwards);     
+}
+
+@font-face {
+  font-family: 'adam';
+  src: url('../fonts/adam/adam.eot');
+  src: url('../fonts/adam/adam.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/adam/adam.woff2') format('woff2'),
+  url('../fonts/adam/adam.woff') format('woff'),
+  url('../fonts/adam/adam.ttf') format('truetype'),
+  url('../fonts/adam/adam.svg#adam.cg_proregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@-webkit-keyframes mask-play {
+  from {
+    -webkit-mask-position: 0% 0;
+    mask-position: 0% 0;
+  }
+  to {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+}
+
+@keyframes mask-play {
+  from {
+    -webkit-mask-position: 0% 0;
+    mask-position: 0% 0;
+  }
+  to {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+}
+
+.home body {
+  background: url(../img/banner/urban-sprite.png) no-repeat -9999px -9999px;
+}
+
+h1{
+  font-family: 'adam';
+}
+
+.container-#{$tag-banner}{
+  height: 100vh;
+}
+
+.#{$tag-banner}{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: url(../img/banner/urban-sprite-2.png) no-repeat -9999px -9999px;
+  font-size: 1vw;
+  background:#131313;
+
+  .project {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    opacity: 1;
+    @include transition('opacity .5s'); 
+
+    .text {
+
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      @include transform(translate(-50%, -50%));
+      margin: 0;
+      display: table;
+      text-align: center;
+      color: #fff;
+  
+  
+      h1{
+          font-size: 3.5vw;
+          text-transform: uppercase;
+          letter-spacing: .3vw;
+          margin-bottom: .5em;               
+      }
+
+
+
+      p{
+        font-size: .9em;
+        max-width: 800px;
+        font-weight: 400;
+        margin: 0 auto;
+        line-height: 1.7em;
+        text-transform: uppercase;        
+      }
+      
+      .btn{
+        margin-top:20px;       
+      }
+    }
+
+    
+    &:nth-child(1) {
+      z-index: 30;
+
+      .text{
+         h1{
+            font-size: 3vw;
+          }
+      }        
+    }
+
+    @media screen and (max-width: 640px){
+      .text h1 {
+        font-size: 36px;
+      }
+
+      .text p {
+        bottom: 20px;
+        margin: 0;
+        text-align: center;
+        width: 100%;
+        right: auto;
+        font-size: 14px;
+      }    
+    }
+
+    &.hide{display: block !important;}
+
+    &:nth-child(odd).hide {
+      @extend %animation; 
+    }
+
+    &:nth-child(even).hide {
+     @extend %animation; 
+   }
+
+   $i:1;
+   @each $key,$value in $slider{
+    &:nth-child(#{$i}){
+      background-image:url(#{$value});
+    }
+    $i:$i+1;
+  }
+}
+
+
+@media screen and (max-width: 640px) { 
+  bottom: 60px;
+  left: 50%;
+  z-index: 120;
+  @include transform(translateX(-50%));
+
+  .arrow.previous:hover {
+    @include prefixer(transform,none);
+  }
+
+  .arrow.next:hover {
+    @include prefixer(transform,translate3d(0, 0, 0) rotate(180deg));
+  }
+}   
+}
+
+.#{$tag-banner+'-bottom'}{
+
+  position:absolute;
+  bottom:50px;
+  left: 0;
+  width: 100%;
+  height: auto;
+  z-index: 100;
+
+  .container{
+    padding: 0;
+  }
+  
+  .social-link{
+    float: right;
+    padding: 10px 0 0;
+    margin: 0;
+    
+    li{
+      padding:0;
+      margin: 0 10px;
+    }
+
+    li:last-child{
+      margin-right: 0;
+    }
+
+    a{
+      color: #fff;
+      font-size: 1.6em; 
+    }
+  }
+
+  
+  .arrows {
+     position:relative;
+     display: block;
+     float: left;
+
+    .arrow {
+      float: left;
+      cursor: pointer;
+    }
+
+    .arrow.next {
+      @include prefixer(transform,rotate(180deg));
+      margin-top: -11px;
+    }
+
+    .arrow:hover.previous {
+      @include prefixer(transform,transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94),true);
+      @include prefixer(transform,translate3d(-5px, 0, 0));
+    }
+
+    .arrow:hover.next {
+      @include prefixer(transform,transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94),true);
+      @include prefixer(transform,translate3d(5px, 0, 0) rotate(180deg));
+    }
+
+    .arrow svg {
+      height: 40px;
+      width: 25px;
+      padding: 2px;
+    }
+
+    .arrow svg polygon {
+      fill: #fff;
+    }
+
+    .arrow {   
+      @include prefixer(transition,transform 0.3s cubic-bezier(0.55, 0.085, 0.68, 0.53),true);
+      margin-right: 10px;
+      margin-top: -7px;
+    }
+
+  }
+
+}
+
+/* Fallback */
+.no-cssmask .#{$tag-banner} .project.hide {
+  opacity: 0;
+  @include transition(opacity 1.4s ease);
+  @include prefixer(mask,none !important);
+}
+
+@media screen and (max-width:1200px){
+  .#{$tag-banner}{
+    font-size: 16px;
+  }
+}
+
+
+@media screen and (max-width: 640px) {
+  .#{$tag-banner} {
+    h1 {
+      letter-spacing: 4px;
+    }
+     .bnner-bottom {
+      .container{
+          width: calc(100% - 30px);
+      }
+
+      .social-link{
+        padding:0;
+      }
+    }
+  }
+
+  
+}
+
+
+
+
+
+
+
+
+

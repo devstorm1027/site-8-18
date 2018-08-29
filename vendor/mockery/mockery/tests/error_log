@@ -1,0 +1,15 @@
+[16-Jul-2017 03:29:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jul-2017 03:29:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[17-Jul-2017 05:15:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jul-2017 05:15:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[21-Jul-2017 02:26:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:26:21 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/skusuitesite/public_html/web.skusuite.com/vendor/mockery/mockery/tests/Bootstrap.php on line 39

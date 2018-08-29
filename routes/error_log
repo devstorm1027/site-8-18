@@ -1,0 +1,32 @@
+[12-Jul-2017 23:31:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jul-2017 23:31:21 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/api.php on line 16
+[12-Jul-2017 23:32:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jul-2017 23:32:07 America/Chicago] PHP Fatal error:  Class 'Artisan' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/console.php on line 16
+[12-Jul-2017 23:32:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jul-2017 23:32:32 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[14-Jul-2017 10:58:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 10:58:12 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/api.php on line 16
+[14-Jul-2017 10:58:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 10:58:36 America/Chicago] PHP Fatal error:  Class 'Artisan' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/console.php on line 16
+[14-Jul-2017 10:58:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 10:58:50 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[14-Jul-2017 11:00:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 11:00:06 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[14-Jul-2017 17:26:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:26:20 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/api.php on line 16
+[14-Jul-2017 17:26:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:26:55 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[14-Jul-2017 17:27:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:27:48 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[14-Jul-2017 17:28:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:28:10 America/Chicago] PHP Fatal error:  Class 'Artisan' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/console.php on line 16
+[14-Jul-2017 17:28:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:28:56 America/Chicago] PHP Fatal error:  Class 'Artisan' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/console.php on line 16
+[14-Jul-2017 17:29:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jul-2017 17:29:30 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[15-Jul-2017 13:32:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 13:32:38 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/api.php on line 16
+[15-Jul-2017 13:32:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 13:32:41 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/channels.php on line 14
+[15-Jul-2017 13:32:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Jul-2017 13:32:43 America/Chicago] PHP Fatal error:  Class 'Artisan' not found in /home/skusuitesite/public_html/web.skusuite.com/routes/console.php on line 16

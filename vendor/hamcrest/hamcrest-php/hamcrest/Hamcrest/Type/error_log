@@ -1,0 +1,64 @@
+[18-Jul-2017 17:31:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:31:06 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsArray.php on line 13
+[18-Jul-2017 17:31:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 17:31:08 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsBoolean.php on line 13
+[18-Jul-2017 18:35:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:01 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsCallable.php on line 13
+[18-Jul-2017 18:35:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:03 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsDouble.php on line 15
+[18-Jul-2017 18:35:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:04 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsInteger.php on line 13
+[18-Jul-2017 18:35:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:07 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsNumeric.php on line 13
+[18-Jul-2017 18:35:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:09 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsObject.php on line 13
+[18-Jul-2017 18:35:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:11 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsResource.php on line 13
+[18-Jul-2017 18:35:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:12 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsScalar.php on line 13
+[18-Jul-2017 18:35:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jul-2017 18:35:14 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsString.php on line 13
+[20-Jul-2017 21:38:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:38:34 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsInteger.php on line 13
+[20-Jul-2017 21:38:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:38:36 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsString.php on line 13
+[20-Jul-2017 21:45:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:45:44 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsBoolean.php on line 13
+[21-Jul-2017 02:26:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:26:52 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsCallable.php on line 13
+[21-Jul-2017 02:26:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:26:52 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsScalar.php on line 13
+[21-Jul-2017 02:26:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 02:26:53 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsObject.php on line 13
+[21-Jul-2017 04:20:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 04:20:46 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsDouble.php on line 15
+[21-Jul-2017 05:47:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 05:47:47 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsCallable.php on line 13
+[21-Jul-2017 14:03:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 14:03:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsScalar.php on line 13
+[21-Jul-2017 18:13:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:13:24 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsResource.php on line 13
+[21-Jul-2017 18:13:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:13:27 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsNumeric.php on line 13
+[21-Jul-2017 18:13:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:13:33 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsDouble.php on line 15
+[21-Jul-2017 18:55:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 18:55:31 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsObject.php on line 13
+[22-Jul-2017 17:27:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 17:27:03 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsArray.php on line 13
+[22-Jul-2017 18:00:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2017 18:00:12 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsBoolean.php on line 13
+[23-Jul-2017 00:03:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 00:03:02 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsArray.php on line 13
+[23-Jul-2017 08:44:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 08:44:49 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsNumeric.php on line 13
+[23-Jul-2017 11:08:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 11:08:35 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsResource.php on line 13
+[23-Jul-2017 11:31:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 11:31:17 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsInteger.php on line 13
+[23-Jul-2017 12:35:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2017 12:35:36 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsString.php on line 13
+[24-Jul-2017 10:13:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 10:13:21 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsArray.php on line 13
+[24-Jul-2017 16:50:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2017 16:50:39 America/Chicago] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsBoolean.php on line 13

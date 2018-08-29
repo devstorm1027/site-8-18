@@ -1,0 +1,5 @@
+[21-Jul-2017 10:30:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2017 10:30:38 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 17
+[21-Jul-2017 10:30:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 15:54:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 15:54:10 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 17

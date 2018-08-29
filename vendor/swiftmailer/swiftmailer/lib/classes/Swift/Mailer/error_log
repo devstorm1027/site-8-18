@@ -1,0 +1,10 @@
+[20-Jul-2017 21:56:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2017 21:56:22 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[20-Jul-2017 21:56:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 05:07:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 05:07:10 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[26-Jul-2017 11:02:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 11:02:43 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[26-Jul-2017 14:44:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 18:41:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2017 18:41:11 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/skusuitesite/public_html/web.skusuite.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
